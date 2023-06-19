@@ -15,8 +15,4 @@ public class Board {
 	private String ipAddr; //게시물 등록자의 ip주소
 	private String creared; // 게시물 생성날짜
 	private int hitCount;  //조회수
-	
-	
-	
-	
 }
